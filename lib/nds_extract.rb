@@ -28,6 +28,7 @@ def list_of_directors(source)
   # Write this implementation
   directors_name = []
   directors_name << source[0][:name]
+  directors_name
 end
 
 def total_gross(source)
